@@ -55,6 +55,7 @@ const allRules = {
   'no-did-update-set-state': require('./lib/rules/no-did-update-set-state'),
   'no-direct-mutation-state': require('./lib/rules/no-direct-mutation-state'),
   'no-find-dom-node': require('./lib/rules/no-find-dom-node'),
+  'no-inline-style': require('./lib/rules/no-inline-style'),
   'no-is-mounted': require('./lib/rules/no-is-mounted'),
   'no-multi-comp': require('./lib/rules/no-multi-comp'),
   'no-set-state': require('./lib/rules/no-set-state'),

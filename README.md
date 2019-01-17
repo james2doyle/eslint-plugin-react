@@ -110,6 +110,7 @@ Enable the rules that you would like to use.
 * [react/no-did-update-set-state](docs/rules/no-did-update-set-state.md): Prevent usage of `setState` in `componentDidUpdate`
 * [react/no-direct-mutation-state](docs/rules/no-direct-mutation-state.md): Prevent direct mutation of `this.state`
 * [react/no-find-dom-node](docs/rules/no-find-dom-node.md): Prevent usage of `findDOMNode`
+* [react/no-inline-style](docs/rules/no-inline-style.md): Prevent usage of `style` prop
 * [react/no-is-mounted](docs/rules/no-is-mounted.md): Prevent usage of `isMounted`
 * [react/no-multi-comp](docs/rules/no-multi-comp.md): Prevent multiple component definition per file
 * [react/no-redundant-should-component-update](docs/rules/no-redundant-should-component-update.md): Prevent usage of `shouldComponentUpdate` when extending React.PureComponent
